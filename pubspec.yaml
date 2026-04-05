@@ -1,4 +1,4 @@
-name: pam-2026-p6-ifs23008  
+name: pam_2026_p6_ifs23008
 description: "Menampilkan berbagai daftar hewan."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1

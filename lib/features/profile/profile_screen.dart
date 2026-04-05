@@ -53,7 +53,7 @@ class _ProfileBody extends StatelessWidget {
 
                 // Nama
                 Text(
-                  'Abdullah Ubaid', // Ubah dengan nama kamu
+                  'Yosep M Simatupang', // Ubah dengan nama kamu
                   style: Theme.of(context).textTheme.titleLarge?.copyWith(
                     fontWeight: FontWeight.bold,
                   ),
